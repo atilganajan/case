@@ -1,6 +1,6 @@
 # Case
 
-A brief project description or purpose can be written here.
+case study
 
 ## Getting Started
 
