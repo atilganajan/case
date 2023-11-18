@@ -9,7 +9,7 @@ Instructions on how to set up and run the project locally.
 1. Clone the project:
 
     ```bash
-    git clone https://github.com/username/project_name.git
+    git clone https://github.com/atilganajan/case.git
     ```
 
 2. Navigate to the project directory:
